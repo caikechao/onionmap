@@ -1,0 +1,78 @@
+Root is 7227
+Communication range is 1.500000
+Max level is 17
+nSensor = 11499
+Level 1...
+Level 2...
+Level 3...
+Level 4...
+Level 5...
+Level 6...
+Level 7...
+Level 8...
+Level 9...
+Level 10...
+Level 11...
+Level 12...
+Level 13...
+Level 14...
+Level 15...
+Level 16...
+Level 17...
+Removing crossing edges...
+0 edges are not in the no cross pool in level 1 .
+0 triangle edges are not in the no cross pool in level 1 .
+0 landmarks in level 1
+0 edges are not in the no cross pool in level 2 .
+0 triangle edges are not in the no cross pool in level 2 .
+0 landmarks in level 2
+0 edges are not in the no cross pool in level 3 .
+0 triangle edges are not in the no cross pool in level 3 .
+0 landmarks in level 3
+0 edges are not in the no cross pool in level 4 .
+0 triangle edges are not in the no cross pool in level 4 .
+0 landmarks in level 4
+0 edges are not in the no cross pool in level 5 .
+0 triangle edges are not in the no cross pool in level 5 .
+0 landmarks in level 5
+0 edges are not in the no cross pool in level 6 .
+0 triangle edges are not in the no cross pool in level 6 .
+0 landmarks in level 6
+0 edges are not in the no cross pool in level 7 .
+0 triangle edges are not in the no cross pool in level 7 .
+0 landmarks in level 7
+0 edges are not in the no cross pool in level 8 .
+0 triangle edges are not in the no cross pool in level 8 .
+0 landmarks in level 8
+0 edges are not in the no cross pool in level 9 .
+0 triangle edges are not in the no cross pool in level 9 .
+0 landmarks in level 9
+0 edges are not in the no cross pool in level 10 .
+0 triangle edges are not in the no cross pool in level 10 .
+0 landmarks in level 10
+0 edges are not in the no cross pool in level 11 .
+0 triangle edges are not in the no cross pool in level 11 .
+0 landmarks in level 11
+0 edges are not in the no cross pool in level 12 .
+0 triangle edges are not in the no cross pool in level 12 .
+In level 12 , 11496 has no attachment.
+1 landmarks in level 12
+0 edges are not in the no cross pool in level 13 .
+0 triangle edges are not in the no cross pool in level 13 .
+In level 13 , 10896 has no attachment.
+1 landmarks in level 13
+0 edges are not in the no cross pool in level 14 .
+0 triangle edges are not in the no cross pool in level 14 .
+0 landmarks in level 14
+0 edges are not in the no cross pool in level 15 .
+0 triangle edges are not in the no cross pool in level 15 .
+In level 15 , 10896 has no attachment.
+1 landmarks in level 15
+0 edges are not in the no cross pool in level 16 .
+0 triangle edges are not in the no cross pool in level 16 .
+0 landmarks in level 16
+0 edges are not in the no cross pool in level 17 .
+0 triangle edges are not in the no cross pool in level 17 .
+0 landmarks in level 17
+Start planar embedding...
+End of planarization...
