@@ -8,7 +8,7 @@ Visual Studio 2010 or above
 This code implemented the landmark triangulation, Euclidean Ricci Flow method and the Uniform Sphere Mapping.
 
 ## Code Statistics ##
-| Project | Language,Files | Total Lines | Code Lines| Commented Lines | Empty Lines | Code Ratio % |
+| Project | Language | Files | Total Lines | Code Lines| Commented Lines | Empty Lines | Code Ratio % |
 
 | BoundaryTriangulation | C++ | 7 |14325 | 11564 | 1162 |1599 | 80 |
 
