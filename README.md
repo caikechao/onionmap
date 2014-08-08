@@ -1,6 +1,7 @@
-# *Research* Code of OnionMap #
+# OnionMap #
+This code was written for the research of routing algorithms in 3D sensor networks. You can read my paper "*OnionMap: A Scalable Geometric Addressing and Routing Scheme for 3D Sensor Networks*" to get a better understanding of this project. 
 
-## Compiler Environment ##
+## Compiling Environment ##
 Visual Studio 2010 or above
 
 ## Contents ##
@@ -12,7 +13,7 @@ This code implemented the landmark triangulation, Euclidean Ricci Flow method an
 | BoundaryTriangulation | C++ | 7 |14325 | 11564 | 1162 |1599 | 80 |
 
 ## Remark ##
-- Generally, the code works just fine except for some special cases. Those cases are mentioned in my paper. 
-- I put the code here just for sharing, however, I would be no longer maintain this code.
+- Generally, the code would work just fine except for some special  tricky cases.  
+- I put the code here just for sharing. However, I would be no longer maintain this code.
 - **If you are really interested in the how this code works, please drop me an Email**.
 
