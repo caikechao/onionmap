@@ -10,7 +10,7 @@ This code implemented the landmark triangulation, Euclidean Ricci Flow method an
 ## Code Statistics ##
 
 | Project               | Language | Files | Total Lines | Code Lines | Commented Lines | Empty Lines | Code Ratio % |
-|-----------------------+----------+-------+-------------+------------+-----------------+-------------+--------------|
+|: --------------------:|:--------:|:-----:|:-----------:|:----------:|:---------------:|:-----------:|:------------:|
 | BoundaryTriangulation | C++      |     7 |       14325 |      11564 |            1162 |        1599 |           80 |
 
 ## Remark ##
